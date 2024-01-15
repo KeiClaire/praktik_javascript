@@ -41,4 +41,5 @@
 const uang = prompt("Masukkan uang: ");
 const beliBaju = prompt("Jumlah baju yang dibeli: ");
 let diskon = beliBaju > 3 ? uang * 0.35 : uang * 0.05
-alert 
+alert(`Nilai potongan diskon: Rp.${diskon.toFixed(0)}`);
+
