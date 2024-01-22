@@ -31,4 +31,3 @@ console.log(typeof ageAsString);
 console.log(typeof heightAsString);
 console.log(typeof weightAsString);
 console.log(typeof studentStatus);
-
