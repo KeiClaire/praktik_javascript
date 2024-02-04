@@ -42,10 +42,10 @@ switch (platNomor) {
         break;
 
     case 'KH':
-        document.write(platNomor +" Adalah Plat Nomor Polisi Daerah Kalimantan Tengah")
+        document.write(platNomor +" Adalah Plat Nomor Polisi Daerah Kalimantan Tengah");
         break;
         default:
-            document.write("Plat Nomor Tidak Tersedia")
+            document.write("Plat Nomor Tidak Tersedia");
 }
 
 
